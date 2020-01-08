@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp"
+        tools:context=".MapsActivity" />
+
+    <RelativeLayout
+        android:id="@+id/second_relative_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageButton
+            android:id="@+id/food_Nearby"
+            android:layout_width="89dp"
+            android:layout_height="77dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="45dp"
+            android:layout_marginLeft="67dp"
+            android:layout_marginBottom="0dp"
+            android:onClick="onClick"
+            android:src="@drawable/ic_restaurant_black_24dp" />
+
+
+        <ImageButton
+            android:id="@+id/clothes_Nearby"
+            android:layout_width="85dp"
+            android:layout_height="78dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="23dp"
+            android:layout_marginBottom="0dp"
+            android:layout_toEndOf="@+id/food_Nearby"
+            android:onClick="onClick"
+            android:src="@drawable/ic_tag_offer_black_24dp" />
+
+
+        <ImageButton
+            android:id="@+id/entertainment_Neaby"
+            android:layout_width="83dp"
+            android:layout_height="78dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="26dp"
+            android:layout_marginBottom="0dp"
+            android:layout_toEndOf="@+id/clothes_Nearby"
+            android:onClick="onClick"
+            android:src="@drawable/ic_local_bar_black_24dp" />
+
+
+    </RelativeLayout>
+
+
+
+    </RelativeLayout>

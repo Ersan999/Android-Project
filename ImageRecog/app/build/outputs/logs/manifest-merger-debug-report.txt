@@ -1,0 +1,249 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.7.0.aar\66b897460c34b1d53b31c5ccce98e308\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\56fed308d77b5db045268cc78aca533b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\c8fd320cb33f551890772b2135eb4975\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4fbc041deba9683f25e86a3d11fbf69f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-vision-16.2.0.aar\bb8dab7dda1530cf729f9451ab967cf9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-16.2.0.aar\9bfc4248ca6485e923d0ec4e51dcc457\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\f1c4dc8bdcf24d8e1637d2267af634d0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\c3ca9ca9cef3bb9ac1f77ce3e4189c3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\8dd28bcb8aa75f3c8c2c4cf8f2077429\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\a4a107b93c21401f6b958029e242bc51\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\0857b674e5bced7776b27c3ef73c8d95\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\5307472af3902cb37de04d3032ce8713\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e6cb70e76be4f4b3d23823edee3f3da9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\09212a473598f42bd4e64fcb0fe71966\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\72a7fc3513feb3e9b69ed639c0d310cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\43a994f1248320720c8aece59c2674d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\91da499ab99cd496d6c9904236021944\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ee547f49cea97352f84a02607b3ffe78\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4eb8a56c4844afc371f6eb63069381a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6d0d2ff26cb6ce8d7855041ddf6caca2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0f5b05579bdd510777d1f360b8185245\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\36f52b3993e237f9aba43c6b3449cdf2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\2cc77752e3a5d22ea8284b10f8a5b5bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a280062c70f51c8c450cef7d4c1dd89a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b674c6a8458a41636cb9ec8390fa5c31\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7a1be6f9dac9c065571362ccaa2bf79e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5c093ce3435716722fa7e49d7ebd3c72\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\be7a697bf7d505388c565d8c9806f805\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2ccb6a5be9234c7135dcc00cf1175409\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\77b00e42abb100e550f7dcc8a32b621f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\2a9bb06ad2c42b542bce091a41f0cea1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9abcaee7860a9c4afc0e5ef7c3cca951\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\0b28f9e9f425dfaf9bc898222d148520\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\8a9a900484064566aac1d11091e5c4af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\989c13612acf1cfeade4404204da9359\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\4b268df8d56f3f0337b6b0c739a0aa84\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\838201d8a6fe610172043c334ec508e4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ba939348c1c41e55b0ff3f63abdb5dfe\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\79d935fce1de6ff1006c15c2b552152f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c13929b4f75cdf67545c744462124e72\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:6:5-64
+	android:name
+		ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:10:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4fbc041deba9683f25e86a3d11fbf69f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4fbc041deba9683f25e86a3d11fbf69f\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-vision-16.2.0.aar\bb8dab7dda1530cf729f9451ab967cf9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-vision-16.2.0.aar\bb8dab7dda1530cf729f9451ab967cf9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-16.2.0.aar\9bfc4248ca6485e923d0ec4e51dcc457\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-16.2.0.aar\9bfc4248ca6485e923d0ec4e51dcc457\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\f1c4dc8bdcf24d8e1637d2267af634d0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\f1c4dc8bdcf24d8e1637d2267af634d0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\8dd28bcb8aa75f3c8c2c4cf8f2077429\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\8dd28bcb8aa75f3c8c2c4cf8f2077429\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\a4a107b93c21401f6b958029e242bc51\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\a4a107b93c21401f6b958029e242bc51\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\0857b674e5bced7776b27c3ef73c8d95\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\0857b674e5bced7776b27c3ef73c8d95\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\5307472af3902cb37de04d3032ce8713\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\5307472af3902cb37de04d3032ce8713\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e6cb70e76be4f4b3d23823edee3f3da9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e6cb70e76be4f4b3d23823edee3f3da9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5c093ce3435716722fa7e49d7ebd3c72\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5c093ce3435716722fa7e49d7ebd3c72\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\be7a697bf7d505388c565d8c9806f805\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\be7a697bf7d505388c565d8c9806f805\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2ccb6a5be9234c7135dcc00cf1175409\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2ccb6a5be9234c7135dcc00cf1175409\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\be7a697bf7d505388c565d8c9806f805\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.imagerecog.MainActivity
+ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:24:9-25:46
+	android:theme
+		ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:25:13-44
+	android:name
+		ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml:24:19-82
+uses-sdk
+INJECTED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.7.0.aar\66b897460c34b1d53b31c5ccce98e308\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.7.0.aar\66b897460c34b1d53b31c5ccce98e308\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\56fed308d77b5db045268cc78aca533b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\56fed308d77b5db045268cc78aca533b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\c8fd320cb33f551890772b2135eb4975\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\c8fd320cb33f551890772b2135eb4975\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4fbc041deba9683f25e86a3d11fbf69f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4fbc041deba9683f25e86a3d11fbf69f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-vision-16.2.0.aar\bb8dab7dda1530cf729f9451ab967cf9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-vision-16.2.0.aar\bb8dab7dda1530cf729f9451ab967cf9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-16.2.0.aar\9bfc4248ca6485e923d0ec4e51dcc457\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-16.2.0.aar\9bfc4248ca6485e923d0ec4e51dcc457\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\f1c4dc8bdcf24d8e1637d2267af634d0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\f1c4dc8bdcf24d8e1637d2267af634d0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\c3ca9ca9cef3bb9ac1f77ce3e4189c3c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\c3ca9ca9cef3bb9ac1f77ce3e4189c3c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\8dd28bcb8aa75f3c8c2c4cf8f2077429\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\8dd28bcb8aa75f3c8c2c4cf8f2077429\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\a4a107b93c21401f6b958029e242bc51\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\a4a107b93c21401f6b958029e242bc51\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\0857b674e5bced7776b27c3ef73c8d95\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\0857b674e5bced7776b27c3ef73c8d95\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\5307472af3902cb37de04d3032ce8713\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\5307472af3902cb37de04d3032ce8713\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e6cb70e76be4f4b3d23823edee3f3da9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e6cb70e76be4f4b3d23823edee3f3da9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\09212a473598f42bd4e64fcb0fe71966\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\09212a473598f42bd4e64fcb0fe71966\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\72a7fc3513feb3e9b69ed639c0d310cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\72a7fc3513feb3e9b69ed639c0d310cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\43a994f1248320720c8aece59c2674d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\43a994f1248320720c8aece59c2674d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\91da499ab99cd496d6c9904236021944\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\91da499ab99cd496d6c9904236021944\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ee547f49cea97352f84a02607b3ffe78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ee547f49cea97352f84a02607b3ffe78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4eb8a56c4844afc371f6eb63069381a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4eb8a56c4844afc371f6eb63069381a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6d0d2ff26cb6ce8d7855041ddf6caca2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6d0d2ff26cb6ce8d7855041ddf6caca2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0f5b05579bdd510777d1f360b8185245\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0f5b05579bdd510777d1f360b8185245\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\36f52b3993e237f9aba43c6b3449cdf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\36f52b3993e237f9aba43c6b3449cdf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\2cc77752e3a5d22ea8284b10f8a5b5bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\2cc77752e3a5d22ea8284b10f8a5b5bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a280062c70f51c8c450cef7d4c1dd89a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a280062c70f51c8c450cef7d4c1dd89a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b674c6a8458a41636cb9ec8390fa5c31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b674c6a8458a41636cb9ec8390fa5c31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7a1be6f9dac9c065571362ccaa2bf79e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7a1be6f9dac9c065571362ccaa2bf79e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5c093ce3435716722fa7e49d7ebd3c72\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5c093ce3435716722fa7e49d7ebd3c72\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\be7a697bf7d505388c565d8c9806f805\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\be7a697bf7d505388c565d8c9806f805\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2ccb6a5be9234c7135dcc00cf1175409\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2ccb6a5be9234c7135dcc00cf1175409\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\77b00e42abb100e550f7dcc8a32b621f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\77b00e42abb100e550f7dcc8a32b621f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\2a9bb06ad2c42b542bce091a41f0cea1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\2a9bb06ad2c42b542bce091a41f0cea1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9abcaee7860a9c4afc0e5ef7c3cca951\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9abcaee7860a9c4afc0e5ef7c3cca951\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\0b28f9e9f425dfaf9bc898222d148520\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\0b28f9e9f425dfaf9bc898222d148520\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\8a9a900484064566aac1d11091e5c4af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\8a9a900484064566aac1d11091e5c4af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\989c13612acf1cfeade4404204da9359\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\989c13612acf1cfeade4404204da9359\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\4b268df8d56f3f0337b6b0c739a0aa84\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\4b268df8d56f3f0337b6b0c739a0aa84\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\838201d8a6fe610172043c334ec508e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\838201d8a6fe610172043c334ec508e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ba939348c1c41e55b0ff3f63abdb5dfe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ba939348c1c41e55b0ff3f63abdb5dfe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\79d935fce1de6ff1006c15c2b552152f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\79d935fce1de6ff1006c15c2b552152f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c13929b4f75cdf67545c744462124e72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c13929b4f75cdf67545c744462124e72\AndroidManifest.xml:20:5-44
+INJECTED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e6cb70e76be4f4b3d23823edee3f3da9\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Project\ImageRecog\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\a4a107b93c21401f6b958029e242bc51\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\a4a107b93c21401f6b958029e242bc51\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\a4a107b93c21401f6b958029e242bc51\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\a4a107b93c21401f6b958029e242bc51\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\5307472af3902cb37de04d3032ce8713\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\5307472af3902cb37de04d3032ce8713\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\5307472af3902cb37de04d3032ce8713\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e6cb70e76be4f4b3d23823edee3f3da9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5c093ce3435716722fa7e49d7ebd3c72\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5c093ce3435716722fa7e49d7ebd3c72\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e6cb70e76be4f4b3d23823edee3f3da9\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\ersan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e6cb70e76be4f4b3d23823edee3f3da9\AndroidManifest.xml:27:13-51

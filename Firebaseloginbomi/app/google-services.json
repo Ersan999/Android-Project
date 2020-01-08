@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "571209249473",
+    "firebase_url": "https://fir-loginbomi.firebaseio.com",
+    "project_id": "fir-loginbomi",
+    "storage_bucket": "fir-loginbomi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571209249473:android:6a6edb18a85342bc",
+        "android_client_info": {
+          "package_name": "com.example.firebaseloginbomi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571209249473-ovc8derdafcsq6634hdae7luf4121k02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseloginbomi",
+            "certificate_hash": "d2036a5188142ed85aa75ba616fcf0d635d82724"
+          }
+        },
+        {
+          "client_id": "571209249473-70hecv87vm0te9m3brp94fgt0kaqvmgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA3SyoEBjY3EbjQHiuwBezR0cJvqE5tZk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571209249473-70hecv87vm0te9m3brp94fgt0kaqvmgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
